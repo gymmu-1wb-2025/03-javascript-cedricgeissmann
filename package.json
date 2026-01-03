@@ -1,0 +1,26 @@
+{
+	"name": "03-javascript",
+	"version": "1.0.0",
+	"description": "Übungsprojekt für einen Einstieg in Javascript.",
+	"scripts": {
+		"lint": "biome check --write"
+	},
+	"repository": {
+		"type": "git",
+		"url": "git+https://github.com/gymmu/03-javascript.git"
+	},
+	"keywords": [],
+	"author": "",
+	"license": "ISC",
+	"type": "module",
+	"bugs": {
+		"url": "https://github.com/gymmu/03-javascript/issues"
+	},
+	"homepage": "https://github.com/gymmu/03-javascript#readme",
+	"devDependencies": {
+		"@biomejs/biome": "2.3.10"
+	},
+	"dependencies": {
+		"inquirer": "^13.1.0"
+	}
+}
