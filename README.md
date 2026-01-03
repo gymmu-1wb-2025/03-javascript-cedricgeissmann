@@ -1,3 +1,4 @@
+[![Open in Visual Studio Code](https://classroom.github.com/assets/open-in-vscode-2e0aaae1b6195c2367325f4f02e2d04e9abb55f0b24a779b69b11b9e10269abc.svg)](https://classroom.github.com/online_ide?assignment_repo_id=22125845&assignment_repo_type=AssignmentRepo)
 # Javscript einfach lernen
 
 In diesem Projekt werden wir eine Reihe von Aufgaben mit Javascript lösen. Bei diesen Aufgaben geht es darum eine Intuition für die Syntax von Javascript aufzubauen, so wie die Grundkonzepte des Programmierens zu erlernen. Wir werden Bedinungen und Schleifen anschauen in diesem Projekt.
